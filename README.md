@@ -1,4 +1,4 @@
-<img width="1920" height="547" alt="image" src="https://github.com/user-attachments/assets/4ca989e3-9d51-40d2-8581-45dd881e9299" />
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/d4eef6ee-179f-40ba-ae99-aa78a2c2d32e" />
 
 # 🎬 Video Downloader
 
