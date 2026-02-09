@@ -1,5 +1,4 @@
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/d4eef6ee-179f-40ba-ae99-aa78a2c2d32e" />
-
+<img width="679" height="266" alt="image" src="https://github.com/user-attachments/assets/e5375b9b-c604-4e2b-8d82-979d1a8f46bc" />
 # 🎬 Video Downloader
 
 **Video Downloader** is a simple and lightweight tool for downloading videos from popular video hosting and social media platforms using direct links.
